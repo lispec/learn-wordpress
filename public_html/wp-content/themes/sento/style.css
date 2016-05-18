@@ -6337,6 +6337,7 @@ span.bar-per {
 	border: 2px solid #8b8e4b; /* Параметры рамки */
 }
 .photo p {
+	display: inline-block; /* Строчно-блочный элемент */
 	margin: 0; /* Отступы */
 }
 
@@ -6351,7 +6352,7 @@ span.bar-per {
 }
 
 .my2{
-	padding-top: 40px !important;
+	margin-top: 40px !important;
 }
 
 .my3{
@@ -6359,6 +6360,12 @@ span.bar-per {
 }
 
 .my4{
-	padding-top: 40px !important;
+	margin-top: 40px !important;
 }
+
+.photo li {
+	 display: inline-block;
+	 list-style: none;
+	 border: 1px solid red;
+ }
 

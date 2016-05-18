@@ -93,45 +93,6 @@
 	</div>
 
 	</header>
-
-<!--	<div class="art-mess">-->
-<!--		<div class="photo">-->
-<!--			<p><a href="#"><img src="/wp-content/uploads/2016/05/banner-300x115.jpg" class="my1"/></a></p>-->
-<!--		</div>-->
-<!---->
-<!--		<div class="photo">-->
-<!--			<p><a href="#"><img src="/wp-content/uploads/2016/05/banner-300x115.jpg" class="my2"/></a></p>-->
-<!--		</div>-->
-<!---->
-<!--		<div class="photo">-->
-<!--			<p><a href="#"><img src="/wp-content/uploads/2016/05/banner-300x115.jpg" class="my3"/></a></p>-->
-<!--		</div>-->
-<!---->
-<!--		<div class="photo">-->
-<!--			<p><a href="#"><img src="/wp-content/uploads/2016/05/banner-300x115.jpg" class="my4"/></a></p>-->
-<!--		</div>-->
-<!---->
-<!--		<div class="photo">-->
-<!--			<p><a href="#"><img src="/wp-content/uploads/2016/05/banner-300x115.jpg" class="my1"/></a></p>-->
-<!--		</div>-->
-<!---->
-<!--		<div class="photo">-->
-<!--			<p><a href="#"><img src="/wp-content/uploads/2016/05/banner-300x115.jpg" class="my2"/></a></p>-->
-<!--		</div>-->
-<!---->
-<!--		<div class="photo">-->
-<!--			<p><a href="#"><img src="/wp-content/uploads/2016/05/banner-300x115.jpg" class="my1"/></a></p>-->
-<!--		</div>-->
-<!--		-->
-<!--<!--		<img src="/wp-content/uploads/2016/05/Olympic-logo-285x214.png">-->
-<!--<!--		<img src="/wp-content/uploads/2016/05/Olympic-logo-285x214.png" class="my">-->
-<!--<!--		<img src="/wp-content/uploads/2016/05/Olympic-logo-285x214.png">-->
-<!--<!--		<img src="/wp-content/uploads/2016/05/Olympic-logo-285x214.png" class="my">-->
-<!--<!--		<img src="/wp-content/uploads/2016/05/Olympic-logo-285x214.png">-->
-<!--<!--		<img src="/wp-content/uploads/2016/05/Olympic-logo-285x214.png" class="my">-->
-<!--<!--		<img src="/wp-content/uploads/2016/05/Olympic-logo-285x214.png">-->
-<!---->
-<!--	</div>-->
 	
 	
 	<!-- header -->
